@@ -1,0 +1,12 @@
+.button__container {
+  margin-top: 10px;
+  text-align: center;
+}
+.button {
+  background-color:green;
+  border: none;
+  color: white;
+  font-size: 14px;
+  height: 40px;
+  width: 100%;
+}
